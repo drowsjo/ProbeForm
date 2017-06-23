@@ -1,0 +1,8 @@
+{
+  "name": "shadowproject",
+  "version": "0.2",
+  "dependencies": {
+    "jquery": "~1.10.2",
+    "jquery-ui": "1.10.3"
+  }
+}
